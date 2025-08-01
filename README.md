@@ -33,20 +33,20 @@ cd portfoliowebsite
 npm install
 npm start
 
-📤 Deployment
+## 📤 Deployment
 This project uses gh-pages to deploy to GitHub Pages.
 
-🛠 Set up
+## 🛠 Set up
 "homepage": "https://shraddhaa23.github.io/portfoliowebsite",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
 }
 
-🚀 Deploy
+## 🚀 Deploy
 npm run deploy
 
-🧪 Running Tests
+## 🧪 Running Tests
 npm test -- --coverage
 
 Tests written for:
