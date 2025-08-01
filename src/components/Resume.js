@@ -7,7 +7,7 @@ const Resume = () => (
     <p>
       Download my resume:
       <br />
-      <a href={`${process.env.PUBLIC_URL}/resume.pdf`} target="_blank" rel="noopener noreferrer">
+      <a href="/portfoliowebsite/resume.pdf" target="_blank" rel="noopener noreferrer">
         Click here to view/download Resume
       </a>
     </p>
